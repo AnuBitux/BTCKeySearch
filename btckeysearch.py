@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/anubitux/Tools/Recovery/BTCKeySearch/bkve/bin/python3
 
 import os
 import argparse
