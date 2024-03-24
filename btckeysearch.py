@@ -1,5 +1,3 @@
-#!/home/anubitux/Tools/Recovery/BTCKeySearch/bkve/bin/python3
-
 import os
 import argparse
 import re
